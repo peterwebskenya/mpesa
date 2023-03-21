@@ -1,0 +1,6 @@
+print("Hello World")
+print("Emobilis")
+print("Scroll")
+print("Versace")
+print("Dannotella")
+print("Mane")
