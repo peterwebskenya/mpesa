@@ -1,0 +1,7 @@
+Integration steps
+-pip install django_daraja
+-on the templates folder create a pay html file
+-add django_daraja to settings as installed apps
+-on ur views create functions to make-payments
+-run migrations on ur app and django_daraja
+-migrate the fields
