@@ -1,0 +1,13 @@
+h1{
+color: red;
+    padding: 500px;
+}
+
+
+body{
+    background-image: url("/static/images/eifel.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+PYTHON MANAGE.PY create superuser
+PYTHON MANAGE.PY makemigrations

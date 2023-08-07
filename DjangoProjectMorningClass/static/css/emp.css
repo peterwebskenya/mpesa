@@ -1,0 +1,27 @@
+form{
+    background-color: green;
+
+margin: 10px;
+
+
+
+     box-shadow: red;
+    padding: 40px;
+}
+
+
+
+
+
+input{
+        float: right;
+    color: black;
+    background-color: burlywood;
+
+
+
+}
+legend{
+    font-weight: bold;
+    font-size: 2px;
+}

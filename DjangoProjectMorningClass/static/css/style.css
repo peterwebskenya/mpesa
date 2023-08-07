@@ -1,0 +1,9 @@
+h1{
+    color: royalblue;
+}
+
+body{
+    background-image: url("/static/images/lou.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}

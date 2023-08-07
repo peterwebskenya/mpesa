@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1a3990e6-4ecf-4411-b020-68c1dd098cc7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/PycharmProjects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FIrstDjangoProject2/Myapp/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FIrstDjangoProject2/static/images/download.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FIrstDjangoProject2/static/images/images (1).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FIrstDjangoProject2/static/images/images.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FIrstDjangoProject2/static/images/lou.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FIrstDjangoProject2/templates/Employee.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FIrstDjangoProject2/templates/Employeetable.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FIrstDjangoProject2/templates/background.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FIrstDjangoProject2/templates/images.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FIrstDjangoProject2/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FIrstDjangoProject2/templates/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FIrstDjangoProject2/templates/tables.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FIrstDjangoProject2/templates/var.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FIrstDjangoProject2/templates/variables.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstDjangoProjecs/Myproject/Myapp/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstDjangoProjecs/Myproject/Myapp/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstDjangoProjecs/Myproject/Myapp/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstDjangoProjecs/Myproject/Myapp/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstDjangoProjecs/Myproject/Myapp/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstDjangoProjecs/Myproject/Myapp/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstDjangoProjecs/Myproject/Myapp/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstDjangoProjecs/Myproject/Myproject/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstDjangoProjecs/Myproject/Myproject/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstDjangoProjecs/Myproject/Myproject/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstDjangoProjecs/Myproject/Myproject/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstDjangoProjecs/Myproject/Myproject/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstDjangoProjecs/Myproject/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Afternoon class/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Afternoon class/area.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Afternoon class/areaofatriangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Afternoon class/arrays.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Afternoon class/calc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Afternoon class/calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Afternoon class/classobjects.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Afternoon class/constructor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Afternoon class/createtable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Afternoon class/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Afternoon class/forloop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Afternoon class/funcitons.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Afternoon class/inbuiltmodules.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Afternoon class/inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Afternoon class/inheritance1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Afternoon class/inheritance3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Afternoon class/insertvalues.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Afternoon class/mathfunctions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Afternoon class/methodoveriding.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Afternoon class/modules.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Afternoon class/multilevelinheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Afternoon class/multipleinheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Afternoon class/name.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Afternoon class/prime.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Afternoon class/range.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Afternoon class/select.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Afternoon class/sinleinheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Afternoon class/stringformatting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Afternoon class/whileloop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Calculator/Calculator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FORM/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MIT Morning Class" beforeDir="false" afterPath="$PROJECT_DIR$/../MIT Morning Class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Afternoon class/57.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Python Afternoon class/57.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Afternoon class/variable.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Python Afternoon class/variable.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Morning Class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2O0WyUnMRyBWOs1YSwbU2POzMiE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a3990e6-4ecf-4411-b020-68c1dd098cc7" name="Changes" comment="" />
+      <created>1680698233441</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680698233441</updated>
+      <workItem from="1680698235327" duration="11000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
